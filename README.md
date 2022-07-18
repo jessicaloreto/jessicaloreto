@@ -1,4 +1,4 @@
-- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20"/> Hey! I’m Rodrigo.
+- <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20" height="20"/> Hey! I’m Jessica.
 - 👨‍💼 I'm a UX Designer and Front-End Developer.
 - 🌱 I’m currently practicing Figma and HTML/CSS/JS.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/jessica-loreto-pereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center"/></a>
